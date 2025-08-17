@@ -4,6 +4,7 @@
 
 This project investigates the application of deep learning techniques for single-image super-resolution (SISR) in the context of gaming imagery. The primary objective is to reconstruct high-resolution (HR) images from corresponding low-resolution (LR) inputs using a fixed upscaling factor of **4×**. Emphasis is placed on restoring fine-grained details, enhancing perceptual quality, and preserving semantic consistency in domain-specific gaming scenes. The model was developed and evaluated as part of a competitive machine learning challenge hosted on Kaggle.
 
+Github link: https://github.com/Rupesh4604/Image-Super-Resolution/
 ---
 
 ### **1. Dataset Description**
